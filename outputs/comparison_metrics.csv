@@ -1,0 +1,8 @@
+,Q-Learning,SARSA
+Total Reward,-7772536.05,-7770944.25
+Total Cost (€),23592.4,24555.8
+Mean Reward/Step,-1109.4114,-1109.1842
+Std Reward/Step,251.0715,250.9302
+Buy Actions,42.0,44.0
+Sell Actions,5792.0,5183.0
+Idle Actions,1172.0,1779.0

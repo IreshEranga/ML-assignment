@@ -1,5 +1,5 @@
 # Data files (download separately from Kaggle)
-data/*.csv
+# data/*.csv
 
 # Jupyter checkpoints
 .ipynb_checkpoints/

@@ -7,12 +7,8 @@ Dataset Link:
 
 GitHub Repository Link:
   https://github.com/IreshEranga/ML-assignment
-  (Repository contains full commit history with detailed commits)
+
 
 YouTube Demo Video Link:
   https://www.youtube.com/playlist?list=PLH0RLn9_XNxgYQc44Cmn1JrN2S29T7VbV
-  (Video length ≤ 20 minutes | Each member ≤ 4 minutes)
 
-===================================================
-  Replace bracketed placeholders before submission
-===================================================

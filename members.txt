@@ -1,0 +1,25 @@
+===================================================
+    MACHINE LEARNING ASSIGNMENT — GROUP MEMBERS
+===================================================
+
+Member 1
+  Student ID : IT22296696
+  Full Name  : M. I. E. MAGAGE
+  Email      : it22296696@my.sliit.lk
+  Contribution: Environment design, Q-Learning implementation,
+                Training loop, EDA visualisations
+
+Member 2
+  Student ID : IT22273376
+  Full Name  : W. P. K. P. Wickramasooriya 
+  Email      : it22273376@my.sliit.lk
+  Contribution: SARSA implementation, on-policy training loop,
+                Algorithm comparison, results analysis
+
+Member 3
+  Student ID : IT22584236
+  Full Name  : B. E. Weerapperuma
+  Email      : it22584236@my.sliit.lk
+  Contribution: Price prediction algorithms (Random Forest, Decision Tree, Linear Regression),
+                Data preprocessing, Feature engineering,
+                Model evaluation and comparison

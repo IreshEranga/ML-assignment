@@ -17,8 +17,8 @@ Member 2
                 Algorithm comparison, results analysis
 
 Member 3
-  Student ID : [YOUR_STUDENT_ID_3]
-  Full Name  : [YOUR_FULL_NAME_3]
-  Email      : [YOUR_EMAIL_3@university.edu]
+  Student ID : IT22584236
+  Full Name  : B. E. Weerapperuma
+  Email      : it22584236@my.sliit.lk
   Contribution: Dataset preprocessing, state discretisation design,
                 Report writing, reward function design

@@ -6,13 +6,7 @@ Dataset Link:
   https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather
 
 GitHub Repository Link:
-  https://github.com/[YOUR_USERNAME]/smartgrid-rl
-  (Repository contains full commit history with detailed commits)
+  https://github.com/IreshEranga/ML-assignment.git
 
 YouTube Demo Video Link:
-  https://www.youtube.com/watch?v=[YOUR_VIDEO_ID]
-  (Video length ≤ 20 minutes | Each member ≤ 4 minutes)
-
-===================================================
-  Replace bracketed placeholders before submission
-===================================================
+  https://www.youtube.com/playlist?list=PLH0RLn9_XNxgYQc44Cmn1JrN2S29T7VbV

@@ -6,7 +6,9 @@ Dataset Link:
   https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather
 
 GitHub Repository Link:
-  https://github.com/IreshEranga/ML-assignment.git
+  https://github.com/IreshEranga/ML-assignment
+
 
 YouTube Demo Video Link:
   https://www.youtube.com/playlist?list=PLH0RLn9_XNxgYQc44Cmn1JrN2S29T7VbV
+

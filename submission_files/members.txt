@@ -20,5 +20,6 @@ Member 3
   Student ID : IT22584236
   Full Name  : B. E. Weerapperuma
   Email      : it22584236@my.sliit.lk
-  Contribution: Dataset preprocessing, state discretisation design,
-                Report writing, reward function design
+  Contribution: Price prediction algorithms (Random Forest, Decision Tree, Linear Regression),
+                Data preprocessing, Feature engineering,
+                Model evaluation and comparison
